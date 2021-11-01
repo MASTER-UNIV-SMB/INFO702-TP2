@@ -1,5 +1,4 @@
 # TP2 - INFO702
-Clément de Louvencourt (M1-INFO-1)
 
 ## Introduction
 
